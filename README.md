@@ -12,22 +12,22 @@ Top 5 rows of dataset
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/top_5_rows.JPG)
 
 ## Questions to be answered
-* How long do people travel with Uber?
+1. How long do people travel with Uber?
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q2.png)
 
-* What Hour Do Most People Take Uber To Their Destination?
+2. What Hour Do Most People Take Uber To Their Destination?
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q3.png)
 
-* Check The Purpose Of Trips
+3. Check The Purpose Of Trips
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q4.png)
 
-* Which Day Has The Highest Number Of Trips
+4. Which Day Has The Highest Number Of Trips
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q5.png)
 
-* What Are The Trips In The Month
+5. What Are The Trips In The Month
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q7.png)
 
-* The starting points of trips. Where Do People Start Boarding Their Trip From Most?
+6. The starting points of trips. Where Do People Start Boarding Their Trip From Most?
 ![](https://github.com/aimanraz/uber_drive_analysis/blob/main/img/q8.png)
 
 ## Summary of analysis
