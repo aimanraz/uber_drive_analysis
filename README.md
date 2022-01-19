@@ -9,7 +9,7 @@ Uber Technologies, Inc., commonly known as Uber, is an American technology compa
 **Packages:** pandas, numpy, matplotlib and seaborn.
 
 ## About Dataset
-The dataset obtain from Uber Ride dataset. You can also request access to your personal Uber data [data here].(https://myprivacy.uber.com/privacy/exploreyourdata/download)
+The dataset obtain from Uber Ride dataset. You can also request access to your personal Uber data [data here](https://myprivacy.uber.com/privacy/exploreyourdata/download).
 
 ![]()
 
